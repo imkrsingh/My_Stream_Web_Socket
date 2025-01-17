@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "7t9sjdA8ztzBk7L1y9qUAWsR9NbTaTyXg8XNCzb0wak=",
+  "Source": "MyStreamWebSocket",
+  "BasePath": "_content/MyStreamWebSocket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyStreamWebSocket\\wwwroot",
+      "Source": "MyStreamWebSocket",
+      "ContentRoot": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\",
+      "BasePath": "_content/MyStreamWebSocket",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\file.doc",
+      "SourceId": "MyStreamWebSocket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\",
+      "BasePath": "_content/MyStreamWebSocket",
+      "RelativePath": "files/file.doc",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\file.doc"
+    },
+    {
+      "Identity": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\Geography.txt",
+      "SourceId": "MyStreamWebSocket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\",
+      "BasePath": "_content/MyStreamWebSocket",
+      "RelativePath": "files/Geography.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\Geography.txt"
+    },
+    {
+      "Identity": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\topics_file.txt",
+      "SourceId": "MyStreamWebSocket",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\",
+      "BasePath": "_content/MyStreamWebSocket",
+      "RelativePath": "files/topics_file.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\topics_file.txt"
+    }
+  ]
+}

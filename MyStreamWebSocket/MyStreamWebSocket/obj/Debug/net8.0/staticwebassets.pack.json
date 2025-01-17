@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\Geography.txt",
+      "PackagePath": "staticwebassets\\files\\Geography.txt"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\file.doc",
+      "PackagePath": "staticwebassets\\files\\file.doc"
+    },
+    {
+      "Id": "C:\\Users\\manis\\source\\repos\\MyStreamWebSocket\\MyStreamWebSocket\\wwwroot\\files\\topics_file.txt",
+      "PackagePath": "staticwebassets\\files\\topics_file.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyStreamWebSocket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyStreamWebSocket.props",
+      "PackagePath": "build\\MyStreamWebSocket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyStreamWebSocket.props",
+      "PackagePath": "buildMultiTargeting\\MyStreamWebSocket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyStreamWebSocket.props",
+      "PackagePath": "buildTransitive\\MyStreamWebSocket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

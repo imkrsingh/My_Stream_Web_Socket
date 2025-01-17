@@ -1,0 +1,9 @@
+﻿WebSocket streaming Payload
+
+ws://localhost:5099
+
+
+//Payloads
+{
+    "fileName": "file.doc"
+}
